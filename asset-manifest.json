@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dark_mode_toggler/static/css/main.c320513d.chunk.css",
+    "main.js": "/dark_mode_toggler/static/js/main.ce0495ff.chunk.js",
+    "main.js.map": "/dark_mode_toggler/static/js/main.ce0495ff.chunk.js.map",
+    "runtime-main.js": "/dark_mode_toggler/static/js/runtime-main.73a68a1f.js",
+    "runtime-main.js.map": "/dark_mode_toggler/static/js/runtime-main.73a68a1f.js.map",
+    "static/js/2.5a7207ce.chunk.js": "/dark_mode_toggler/static/js/2.5a7207ce.chunk.js",
+    "static/js/2.5a7207ce.chunk.js.map": "/dark_mode_toggler/static/js/2.5a7207ce.chunk.js.map",
+    "index.html": "/dark_mode_toggler/index.html",
+    "precache-manifest.8b7093dae4d1560ccb049d3db41af6e4.js": "/dark_mode_toggler/precache-manifest.8b7093dae4d1560ccb049d3db41af6e4.js",
+    "service-worker.js": "/dark_mode_toggler/service-worker.js",
+    "static/css/main.c320513d.chunk.css.map": "/dark_mode_toggler/static/css/main.c320513d.chunk.css.map",
+    "static/js/2.5a7207ce.chunk.js.LICENSE.txt": "/dark_mode_toggler/static/js/2.5a7207ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73a68a1f.js",
+    "static/js/2.5a7207ce.chunk.js",
+    "static/css/main.c320513d.chunk.css",
+    "static/js/main.ce0495ff.chunk.js"
+  ]
+}
