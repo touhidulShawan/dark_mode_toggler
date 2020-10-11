@@ -1,10 +1,9 @@
 import * as React from "react";
-import { useContext } from "react";
-import { ThemeContext } from "../App";
+import { useTheme } from "../context/ThemeContext";
 import "./ToggleButton.css";
 
 const ToggleButton: React.FC = () => {
-  const theme = useContext(ThemeContext);
+  const theme = useTheme();
   return (
     <div>
       <label className="switch">
