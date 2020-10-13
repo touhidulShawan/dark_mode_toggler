@@ -21,7 +21,6 @@ export const ThemeProvider: React.FC = ({ children }) => {
   const toggleTheme = () => {
     setDark((prevState: boolean) => !prevState);
   };
-  console.log("from ThemeProvider" + dark);
   return (
     <ThemeContext.Provider value={{ dark, toggleTheme }}>
       {children}
