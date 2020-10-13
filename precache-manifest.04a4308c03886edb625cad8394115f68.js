@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d1305a24b2ac3f0d682737d784a7bd4",
+    "revision": "bfaefa5388857bebeadfcf084222d13e",
     "url": "/dark_mode_toggler/index.html"
   },
   {
-    "revision": "fc5aad790bf7174f0607",
+    "revision": "be05d0dc1a128ce8d231",
     "url": "/dark_mode_toggler/static/css/main.c320513d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dark_mode_toggler/static/js/2.5a7207ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc5aad790bf7174f0607",
-    "url": "/dark_mode_toggler/static/js/main.ce0495ff.chunk.js"
+    "revision": "be05d0dc1a128ce8d231",
+    "url": "/dark_mode_toggler/static/js/main.bcfb6d4d.chunk.js"
   },
   {
     "revision": "09c270ae2cdf0064c32e",
